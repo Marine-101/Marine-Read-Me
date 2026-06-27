@@ -1,4 +1,4 @@
-# Marine
+# Marine Read me
 # Hi, I'm Gunnar 👋
 
 Computer Science student at BYU–Idaho with an interest in cybersecurity, Linux, and software development.
